@@ -1,0 +1,282 @@
+[18:17:04] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[18:17:04] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[18:17:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:17:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 14 plugins
+[18:17:05] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (14):
+ - AdvancedEnchantments (9.22.9), Essentials (2.22.0-dev+111-c38c925), ItemEdit (3.7.8), ItemTag (3.7.5), LuckPerms (5.5.44), PlaceholderAPI (2.12.2), PlayerKits2 (1.22.2), ProtocolLib (5.4.0), SkinsRestorer (15.12.0), TAB (6.0.2), UnlimitedNameTags (1.6.7), Vault (1.7.3-b131), WorldEdit (7.4.3+7515-78babeb), packetevents (2.12.1)
+[18:17:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:17:13] [ServerMain/INFO]: Loaded 1515 recipes
+[18:17:13] [ServerMain/INFO]: Loaded 1617 advancements
+[18:17:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:17:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 556.6ms
+[18:17:13] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[18:17:13] [Server thread/INFO]: Loading properties
+[18:17:13] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[18:17:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:17:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:17:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:17:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:17:15] [Server thread/INFO]: Default game type: SURVIVAL
+[18:17:15] [Server thread/INFO]: Generating keypair
+[18:17:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:17:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:17:15] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loading 4 libraries... please wait
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/de/exlll/configlib-yaml/4.5.0/configlib-yaml-4.5.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/de/exlll/configlib-core/4.5.0/configlib-core-4.5.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/org/snakeyaml/snakeyaml-engine/2.7/snakeyaml-engine-2.7.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/de/exlll/configlib-paper/4.5.0/configlib-paper-4.5.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/net/jodah/expiringmap/0.5.11/expiringmap-0.5.11.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/org/apache/commons/commons-jexl3/3.4.0/commons-jexl3-3.4.0.jar
+[18:17:15] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /workspaces/DinastiycMC/servidor_minecraft/libraries/commons-logging/commons-logging/1.3.2/commons-logging-1.3.2.jar
+[18:17:15] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.44
+[18:17:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:17:16] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0
+[18:17:16] [Server thread/WARN]: [ProtocolLib] Version (MC: 26.1.2) has not yet been tested! Proceed with caution.
+[18:17:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[18:17:16] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.12.2
+[18:17:16] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.12.1
+[18:17:18] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.8
+[18:17:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+111-c38c925
+[18:17:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[18:17:18] [Server thread/INFO]: [TAB] Loading server plugin TAB v6.0.2
+[18:17:18] [Server thread/INFO]: [UnlimitedNameTags] Loading server plugin UnlimitedNameTags v1.6.7
+[18:17:18] [Server thread/INFO]: [ItemTag] Loading server plugin ItemTag v3.7.5
+[18:17:18] [Server thread/INFO]: [AdvancedEnchantments] Loading server plugin AdvancedEnchantments v9.22.9
+[18:17:18] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.22.2
+[18:17:18] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.3+7515-78babeb
+[18:17:19] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@422582c6]
+[18:17:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:17:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.44
+[18:17:19] [Server thread/INFO]:         __    
+[18:17:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.44
+[18:17:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:17:19] [Server thread/INFO]: 
+[18:17:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:17:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:17:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:17:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1244ms)
+[18:17:20] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0
+[18:17:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[18:17:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[18:17:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:17:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[18:17:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[18:17:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[18:17:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[18:17:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:17:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.12.0]
+[18:17:22] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[18:17:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.3+7515-78babeb
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:17:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[18:17:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:17:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[18:17:22] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_1.PaperweightAdapter as the Bukkit adapter
+[18:17:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:17:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:17:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:17:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:17:22] [Server thread/INFO]: Preparing level "world"
+[18:17:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[18:17:23] [Server thread/INFO]: Prepared spawn area in 1 ms
+[18:17:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[18:17:23] [Server thread/INFO]: Preparing spawn area: 100%
+[18:17:23] [Server thread/INFO]: Prepared spawn area in 4 ms
+[18:17:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[18:17:23] [Server thread/INFO]: Preparing spawn area: 100%
+[18:17:23] [Server thread/INFO]: Prepared spawn area in 3 ms
+[18:17:23] [Server thread/INFO]: Done preparing level "world" (0.707s)
+[18:17:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.12.2
+[18:17:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[18:17:23] [Server thread/INFO]: [packetevents] Enabling packetevents v2.12.1
+[18:17:23] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[18:17:23] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.8
+[18:17:23] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.12.1)
+[18:17:23] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[18:17:23] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[18:17:24] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[18:17:24] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[18:17:24] [Server thread/INFO]: [ItemEdit] placeholders:
+[18:17:24] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[18:17:24] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[18:17:24] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[18:17:24] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[18:17:24] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[18:17:24] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[18:17:24] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[18:17:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[18:17:24] [Server thread/INFO]: [ItemEdit] # Enabled (took 225 ms)
+[18:17:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+111-c38c925
+[18:17:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:17:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:17:24] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[18:17:24] [Server thread/INFO]: [Essentials] Using locale en
+[18:17:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:17:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:17:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[18:17:25] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[18:17:25] [Server thread/INFO]: [TAB] Enabling TAB v6.0.2
+[18:17:25] [Server thread/INFO]: [TAB] Found NMS implementation: me.neznamy.tab.platforms.bukkit.paper_1_21_11.NMSImplementationProvider
+[18:17:25] [Server thread/INFO]: [TAB] Enabled in 250ms
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] Enabling UnlimitedNameTags v1.6.7
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] [STDOUT] [Spigotunlocked.com] - BySantino12
+[18:17:25] [Server thread/WARN]: Nag author(s): '[AlexDev_]' of 'UnlimitedNameTags v1.6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] Paper found, using Paper's tracker
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] PacketEvents found, hooking into it
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] API registered
+[18:17:25] [Server thread/INFO]: [UnlimitedNameTags] UnlimitedNameTags has been enabled!
+[18:17:25] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.7.5
+[18:17:25] [Server thread/INFO]: [ItemTag] Data using Spigot PersistentDataContainer
+[18:17:25] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[18:17:25] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[18:17:25] [Server thread/INFO]: [ItemTag] placeholders:
+[18:17:25] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[18:17:25] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[18:17:25] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[18:17:25] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[18:17:25] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[18:17:25] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[18:17:25] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[18:17:25] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[18:17:25] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[18:17:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[18:17:25] [Server thread/INFO]: [ItemTag] # Enabled (took 96 ms)
+[18:17:25] [Server thread/INFO]: [AdvancedEnchantments] Enabling AdvancedEnchantments v9.22.9
+[18:17:26] [Server thread/INFO]: Found Minecraft: 26.1.2.build.60! Trying to find NMS support
+[18:17:26] [Server thread/INFO]: [AdvancedEnchantments] Loading Minecraft Version MC26_1
+[18:17:26] [Server thread/INFO]: [AdvancedEnchantments] Loaded 7 armor sets.
+[18:17:26] [Server thread/INFO]: [AdvancedEnchantments] Loaded 5 weapons.
+[18:17:26] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:17:34] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into economy plugin (Vault)
+[18:17:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: advancedenchantments [1.0.0]
+[18:17:34] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.22.2
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.22.2]
+[18:17:35] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.22.2
+[18:17:35] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
+[18:17:35] [Server thread/INFO]: [spark] Starting background profiler...
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:17:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:17:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:17:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:17:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:17:35] [Server thread/INFO]: Running delayed init tasks
+[18:17:35] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[18:17:35] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:17:35] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[18:17:35] [Server thread/INFO]: Done (32.373s)! For help, type "help"
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.9]
+[18:17:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[18:17:35] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[18:17:36] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 3 build(s) behind ***
+[18:17:36] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[18:17:36] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[18:17:36] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[18:17:36] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[18:17:36] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into ProtocolLib, AdvancedEnchantments, PlaceholderAPI, Essentials, Vault, LuckPerms, TAB.
+[18:17:40] [User Authenticator #0/INFO]: UUID of player Daniel67wuw is e3826eb1-2c61-3dd1-9f08-fae5655e1d29
+[18:17:40] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, ProtocolLib]
+[18:17:42] [Server thread/INFO]: Daniel67wuw joined the game
+[18:17:42] [Server thread/INFO]: Daniel67wuw[/127.230.69.63:49831] logged in with entity id 1 at ([minecraft:overworld]-112.46566058038547, 63.0, -626.0685026390217)
+[18:18:09] [Server thread/INFO]: Daniel67wuw issued server command: /spark profiler cancel
+[18:18:09] [Paper Async Task Handler Thread - 1/INFO]: [⚡] Profiler has been cancelled.
+[18:18:16] [Server thread/INFO]: Daniel67wuw issued server command: /spark profiler stop
+[18:18:44] [Server thread/INFO]: Daniel67wuw lost connection: Disconnected
+[18:18:44] [Server thread/INFO]: Daniel67wuw left the game
+[18:18:50] [User Authenticator #1/INFO]: UUID of player Daniel67wuw is e3826eb1-2c61-3dd1-9f08-fae5655e1d29
+[18:18:51] [Server thread/INFO]: Daniel67wuw joined the game
+[18:18:51] [Server thread/INFO]: Daniel67wuw[/127.230.69.63:37705] logged in with entity id 1227 at ([minecraft:overworld]26.654759866617564, 73.86100344845205, -758.8614553008324)
+[18:19:21] [User Authenticator #2/INFO]: UUID of player Rus0_Ox is c4bb05ad-27eb-302d-9ba9-c27a1a0dcb5a
+[18:19:23] [Server thread/INFO]: Rus0_Ox joined the game
+[18:19:23] [Server thread/INFO]: Rus0_Ox[/127.237.60.138:39837] logged in with entity id 1288 at ([minecraft:overworld]-177.5, 78.0, -495.5)
+[18:19:34] [Server thread/INFO]: Daniel67wuw issued server command: /tp Rus0_Ox Daniel67wuw
+[18:19:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Rus0_Ox> hola
+[18:19:39] [Server thread/INFO]: Daniel67wuw issued server command: /op Rus0_Ox
+[18:19:39] [Server thread/INFO]: [Daniel67wuw: Made Rus0_Ox a server operator]
+[18:19:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Daniel67wuw> Hola.
+[18:19:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Rus0_Ox> que quieres que te ayude
+[18:19:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Daniel67wuw> Si.
+[18:20:01] [Server thread/INFO]: Rus0_Ox issued server command: /gamemode creative
+[18:20:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Rus0_Ox> que quieres que aga?
+[18:20:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Daniel67wuw> Que sabes hacer ?
+[18:20:31] [Server thread/INFO]: Daniel67wuw issued server command: /tp Rus0_Ox
+[18:20:45] [Server thread/INFO]: Daniel67wuw issued server command: /lp creategroup owner 100
+[18:20:45] [luckperms-command-executor/INFO]: [LP] LOG > (Daniel67wuw) [G] (owner)
+[18:20:45] [luckperms-command-executor/INFO]: [LP] LOG > create
+[18:21:10] [Server thread/INFO]: Daniel67wuw issued server command: /lp group owner meta setprefix &c&lOWNER &f
+[18:21:10] [luckperms-command-executor/INFO]: [LP] LOG > (Daniel67wuw) [G] (owner)
+[18:21:10] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 100 &c&lOWNER server=&f
+[18:21:21] [Server thread/INFO]: Daniel67wuw issued server command: /lp group owner meta setprefix "&c&lOWNER &f"
+[18:21:21] [luckperms-command-executor/INFO]: [LP] LOG > (Daniel67wuw) [G] (owner)
+[18:21:21] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 100 &c&lOWNER &f
+[18:21:28] [Server thread/INFO]: Daniel67wuw issued server command: /lp user Daniel67wuw parent set owner
+[18:21:28] [luckperms-command-executor/INFO]: [LP] LOG > (Daniel67wuw) [U] (daniel67wuw)
+[18:21:28] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[18:23:19] [Server thread/INFO]: Daniel67wuw issued server command: /unlimitednametags create
+[18:23:24] [Server thread/INFO]: Daniel67wuw issued server command: /unlimitednametags help
+[18:23:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Rus0_Ox> hola
+[18:23:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Rus0_Ox> simple mente me quedo afk no xd?
+[18:24:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Daniel67wuw> Es que ando probando algo.
+[18:24:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Daniel67wuw> Del nametag

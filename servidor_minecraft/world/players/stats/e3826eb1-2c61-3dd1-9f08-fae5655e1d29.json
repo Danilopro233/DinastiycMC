@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:diamond_sword": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:cod": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:spider": 2,
+      "minecraft:zombie": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 16,
+      "minecraft:cod": 1,
+      "minecraft:snowball": 16
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 64701,
+      "minecraft:walk_one_cm": 21148,
+      "minecraft:leave_game": 6,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 322,
+      "minecraft:damage_taken": 1105,
+      "minecraft:damage_dealt": 300,
+      "minecraft:play_time": 108004,
+      "minecraft:jump": 285,
+      "minecraft:time_since_death": 64541,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 43781,
+      "minecraft:fall_one_cm": 7478,
+      "minecraft:total_world_time": 108004,
+      "minecraft:fly_one_cm": 89526,
+      "minecraft:walk_on_water_one_cm": 6124,
+      "minecraft:crouch_one_cm": 346,
+      "minecraft:sneak_time": 255,
+      "minecraft:deaths": 3
+    },
+    "minecraft:killed": {
+      "minecraft:polar_bear": 1
+    }
+  },
+  "DataVersion": 4790
+}

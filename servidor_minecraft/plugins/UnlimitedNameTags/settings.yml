@@ -1,0 +1,70 @@
+nameTags:
+  staffer:
+    permission: nametag.staffer
+    linesGroups:
+    - lines:
+      - '%luckperms_prefix% %player_name% %luckperms_suffix%'
+      modifiers:
+      - type: global
+        enabled: true
+    background:
+      type: integer
+      enabled: false
+      opacity: 255
+      shadowed: true
+      seeThrough: false
+      red: 255
+      green: 0
+      blue: 0
+    scale: 1.0
+  default:
+    permission: nametag.default
+    linesGroups:
+    - lines:
+      - '%luckperms_prefix% %player_name% %luckperms_suffix%'
+      modifiers:
+      - type: global
+        enabled: true
+    - lines:
+      - Rich Player
+      modifiers:
+      - type: conditional
+        parameter: '%vault_eco_balance%'
+        condition: '>'
+        value: '1000'
+    background:
+      type: hex
+      enabled: false
+      opacity: 255
+      shadowed: false
+      seeThrough: false
+      hex: '#ffffff'
+    scale: 1.0
+# The default billboard constraints for the nametag. CENTER, HORIZONTAL, VERTICAL, FIXED)
+defaultBillboard: CENTER
+taskInterval: 20
+# This is opacity that will be applied to the nametag when a player sneaks. So, the value is from -128 to 127. 
+# Similar to the background, the text rendering is discarded when it is less than 26. Defaults to -1, which represents 255 and is completely opaque.
+sneakOpacity: 70
+yOffset: 0.30000001192092896
+viewDistance: 60.0
+# Which text formatter to use (MINIMESSAGE, MINEDOWN, LEGACY or UNIVERSAL) 
+# Take note that UNIVERSAL is the most resource intensive but it supports all formatting options (except for MINEDOWN) 
+
+# (&x&0&8&4&c&f&bc LEGACY OF LEGACY - &#084cfbc LEGACY - &#084cfbc& MINEDOWN - <color:#084cfbc> MINIMESSAGE)
+format: MINIMESSAGE
+# Whether to disable the default name tag or not.
+disableDefaultNameTag: true
+removeEmptyLines: true
+# Whether to see the NameTag of a user only while pointing at them
+showWhileLooking: false
+# Whether to see your own NameTag (Similar to nametag mod of Lunar Client)
+showCurrentNameTag: false
+placeholdersReplacements:
+  '%advancedvanish_is_vanished%':
+  - placeholder: Yes
+    replacement: ' &7[V]&r'
+  - placeholder: No
+    replacement: ''
+
+# Authors: AlexDev_
